@@ -17,6 +17,8 @@ The Dressipi dataset can be found at: http://www.recsyschallenge.com/2022/#parti
 # Example to run the codes
 1. Environment: I have tested this code with python3.7 Pytorch=1.13.1 CUDA=11.7
 
+Install RecBole: `pip install recbole`
+
 2. Run Coformer-DP
 
 `python run.py`
