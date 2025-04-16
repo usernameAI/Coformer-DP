@@ -5,6 +5,8 @@ Coformer for Session-based Recommendation with Dual Positional Information
 
 by Weiyue Li, Zhiguo Zhu, Hao Dong, Cheng Chen, Ming Gao, Weiguo Fan
 
+This paper is just accepted by Expert Systems with Applications.
+
 # Dataset
 We provide one dataset: Diginetica. 
 
